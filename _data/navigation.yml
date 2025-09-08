@@ -12,22 +12,15 @@ main:
   - title: "Blog Posts"
     url: /year-archive/
 
-  - title: "Talks"
-    url: /talks/    
-
-  - title: "Teaching"
+  - title: "About us"
     url: /teaching/    
+
     
-  - title: "Portfolio"
+  - title: "Media"
     url: /portfolio/
 
-      - title: "Publications"
-    url: /publications/
+
         
-    
-  - title: "CV"
-    url: /cv/
-    
   # - title: "CV"
   #   url: /cv-json/
     
