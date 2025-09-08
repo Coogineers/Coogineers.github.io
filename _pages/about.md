@@ -64,7 +64,7 @@ How to edit
 ------
 
 photo? 
-![Editing a Markdown file for a talk](/images/editing-talk.png)
+![Editing a Markdown file for a talk](/images/profile.png)
 
 For more info
 ------
