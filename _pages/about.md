@@ -13,9 +13,8 @@ Our project aims to design and build an automated system for the oil-ﬁlling pr
 
  You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
 
-A data-driven personal website
+A The technical design effort wil include:
 ======
-The technical design eﬀort will include: 
 
 Kinematic and motion simulations to achieve precise positioning targeting cycle times of 15 minutes or less in 95% of cases. 
 
