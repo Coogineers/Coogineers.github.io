@@ -94,22 +94,26 @@ words_per_minute         : 160
 future                   : true
 read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
 talkmap_link             : false      #change to true to add link to talkmap on talks page
+# To remove Google Anaylics from your page, remove the line below.
+google_analytics:      UA-68290006-3
+
+# Set which comment system to use
 comments:
-  # 'disqus' / 'giscus' / 'utterances' are available
+  # 'disqus' or 'utterances' are available
   provider:            utterances
+
+# Setting a disqus shortname will enable the comment section on
+# pages with `comments: true` in the front matter.
+disqus:                Coogineers
 
 # You must install utterances github app before use.(https://github.com/apps/utterances)
 # Make sure all variables are set properly. Check below link for detail.
 # https://utteranc.es/
 utterances:
-  repo:                "Coogineers/Coogineers.github.io"
+  repo:                "LazyRen/LazyRen.github.io"
   issue-term:          "pathname"
   label:               "Comments"
   theme:               "dark-blue"
-
-# You must install giscus github app before use.(https://github.com/apps/giscus)
-# Make sure all variables are set properly. Check below link for detail.
-# https://giscus.vercel.app/
 
     shortname            :
   discourse:
