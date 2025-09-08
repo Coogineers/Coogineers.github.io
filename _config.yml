@@ -97,6 +97,24 @@ talkmap_link             : false      #change to true to add link to talkmap on 
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
   disqus:
+  # Set which comment system to use
+comments:
+  # 'disqus' / 'giscus' / 'utterances' are available
+  provider:            utterances
+
+# You must install utterances github app before use.(https://github.com/apps/utterances)
+# Make sure all variables are set properly. Check below link for detail.
+# https://utteranc.es/
+utterances:
+  repo:                "Coogineers/Coogineers.github.io"
+  issue-term:          "pathname"
+  label:               "Comments"
+  theme:               "dark-blue"
+
+# You must install giscus github app before use.(https://github.com/apps/giscus)
+# Make sure all variables are set properly. Check below link for detail.
+# https://giscus.vercel.app/
+
     shortname            :
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
