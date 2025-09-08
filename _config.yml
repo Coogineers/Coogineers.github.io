@@ -241,11 +241,8 @@ defaults:
       comments: true
       share: true
       related: true
-      # Set which comment system to use
-comments:
   # 'disqus' / 'giscus' / 'utterances' are available
-  provider:            giscus
-
+  provider:            utterances
 # You must install utterances github app before use.(https://github.com/apps/utterances)
 # Make sure all variables are set properly. Check below link for detail.
 # https://utteranc.es/
@@ -270,7 +267,7 @@ utterances:
       layout: single
       author_profile: true
       share: true
-      comments: true
+      comments: false
   # _publications
   - scope:
       path: ""
@@ -279,7 +276,7 @@ utterances:
       layout: single
       author_profile: true
       share: true
-      comments: true
+      comments: false
   # _portfolio
   - scope:
       path: ""
@@ -288,7 +285,7 @@ utterances:
       layout: single
       author_profile: true
       share: true
-      comment: true
+      comment: false
   # _talks
   - scope:
       path: ""
