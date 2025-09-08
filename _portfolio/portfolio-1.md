@@ -4,4 +4,4 @@ excerpt: "Short description of MWD tool<br/><img src='/images/profile.png'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+ A vacuum degasser is a specialized piece of equipment designed to remove unwanted gases and contaminants from liquids. By creating a vacuum environment, this machine enables the efficient extraction of dissolved gases, thereby enhancing the quality of the fluid.
