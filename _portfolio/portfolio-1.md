@@ -1,6 +1,6 @@
 ---
 title: "MWD tool"
-excerpt: "Short description of MWD tool<br/><img src='/images/500x300.png'>"
+excerpt: "Short description of MWD tool<br/><img src='/images/profile.png'>"
 collection: portfolio
 ---
 
