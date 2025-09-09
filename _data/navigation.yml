@@ -12,17 +12,10 @@ main:
   - title: "Blog Posts"
     url: /year-archive/
 
-  - title: "About us"
-    url: /teaching/    
-
     
   - title: "Media"
     url: /portfolio/
 
-
-        
-  # - title: "CV"
-  #   url: /cv-json/
     
   - title: "Guide"
     url: /markdown/
