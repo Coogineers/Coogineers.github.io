@@ -13,7 +13,7 @@ Our project aims to design and build an automated system for the oil-ﬁlling pr
 
 
 
-A The technical design effort wil include:
+The technical design effort wil include:
 ======
 
 Kinematic and motion simulations to achieve precise positioning targeting cycle times of 15 minutes or less in 95% of cases. 
@@ -28,44 +28,6 @@ Deﬁne success of trapped air removal via pressure measurements and validation 
 
   
 
-Deliverables will include: 
 
-User/ Operator/ Troubleshooting guides and manuals 
-
-Schematic of control logic with programmed sequences of vacuum and pressurization. 
-
-Report of structural and fatigue analysis, including verification of safety factor >2 and results of static loading testing at 1.5 times expected load. 
-
-Prototype fabrication and experimental validation using actual MWD pulsers in sponsor’s facility. 
-
-CAD modeling of the articulation arm. 
-
-Test reports documenting performance against key metrics: cycle time, stable pressure hold, pressurization target, overshoot and uninterrupted cycles completed successfully.  
-
-For those users that need more advanced functionality, the template also supports the following popular tools:
-- [MathJax](https://www.mathjax.org/) for mathematical equations
-- [Mermaid](https://mermaid.js.org/) for diagraming
-- [Plotly](https://plotly.com/javascript/) for plotting
-
-Header
-======
-
-
-Header
-------
-
-
-Header
-------
-
-
-
-How to edit 
-------
-
-photo? 
 ![Editing a Markdown file for a talk](/images/profile.png)
 
-For more info
-------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
