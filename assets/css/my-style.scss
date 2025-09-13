@@ -32,3 +32,19 @@ figcaption {
   color: #555;
   font-size: 10px !important;
 }
+
+/* tighter paragraph spacing inside posts */
+.page__content p,
+.post .page__content p {
+  margin-top: 0 !important;
+  margin-bottom: 0.45em !important;   /* tweak to taste */
+}
+
+/* optional: tighten the rule/line as well */
+.page__content hr { 
+  margin: 0.8em 0 !important;
+}
+
+.page__content blockquote {
+  margin: 0.75em 1em !important;
+}
