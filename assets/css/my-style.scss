@@ -16,3 +16,8 @@
   figcaption, .caption { font-size: 14px; color: #666; font-style: italic; }
 }
 
+/* Only references italic */
+.reference, blockquote, figcaption {
+  font-style: italic;
+  color: #555;
+}
