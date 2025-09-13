@@ -1,1 +1,30 @@
 
+.utterances {
+  max-width: 100%;
+}
+
+.giscus, .giscus-frame {
+  width: 100%;
+}
+
+.giscus-frame {
+  border: none;
+}
+
+---
+---
+
+/* Scope to post content containers used by the theme */
+.post, .post-content, .page__content {
+  font-size: 17px;
+  line-height: 1.7;
+
+  h1 { font-size: 34px; font-weight: 700; }
+  h2 { font-size: 28px; font-weight: 600; }
+  h3 { font-size: 22px; font-weight: 600; }
+  h4 { font-size: 18px; font-style: italic; }
+
+  p { font-size: 18px !important; font-style: italic !important; margin-bottom: 1.2em; }
+
+  figcaption, .caption { font-size: 14px; color: #666; font-style: italic; }
+}
