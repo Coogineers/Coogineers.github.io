@@ -1,5 +1,5 @@
 ---
-title: 'Future Blog Post'
+title: 'Blog Post 8'
 date: 2026-04-19
 permalink: /posts/2023/09/blog-post-8/
 tags:
