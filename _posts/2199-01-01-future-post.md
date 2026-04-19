@@ -24,7 +24,7 @@ f. Prototyped mounting brackets for limit switches.
 At this stage, key safety and control functions have been successfully validated, including the E-stop system and limit switches. These results demonstrate that the system can safely interrupt operation and accurately detect predefined positions.
 
 Further validation of positional accuracy is pending the arrival of new proximity sensors, which will enable precise position verification. While the team is slightly behind schedule, we are actively working to recover progress by meeting over the weekend for troubleshooting and, if feasible, conducting validation trials overnight.
-
+![Alt text](images/IMG_5346.jpg)
 ## 3. Improvements + Remaining validation + Next Steps
 
 With the remaining time before the final report, the team will focus on:
