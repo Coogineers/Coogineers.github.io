@@ -1,7 +1,7 @@
 ---
 title: 'Blog Post 8'
 date: 2026-04-19
-permalink: /posts/2023/09/blog-post-8/
+permalink: /posts/2026/09/blog-post-8/
 tags:
   - Electronic Integrations
   - Control Programming
@@ -41,3 +41,4 @@ d) Documenting validation trials and comparing result for further improvements.
 
 Upload the current draft of your technical poster.
 
+![AMOFT](/images/Slide1.png) 
