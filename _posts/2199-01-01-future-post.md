@@ -41,4 +41,4 @@ d) Documenting validation trials and comparing result for further improvements.
 
 Upload the current draft of your technical poster.
 
-![Poster](/images/Slide1.png) 
+![Poster](/images/Slide1.PNG) 
