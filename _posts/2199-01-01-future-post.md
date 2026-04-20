@@ -1,7 +1,7 @@
 ---
 title: 'Blog Post 8'
 date: 2026-04-19
-permalink: /posts/2026/09/blog-post-8/
+permalink: /posts/2026/04/blog-post-8/
 tags:
   - Electronic Integrations
   - Control Programming
